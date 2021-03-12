@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin'), local('Roboto-Thin'), url('../kovrik/css/robotothin.woff2') format('woff2'), url('../kovrik/css/robotothin.woff') format('woff'), url('../kovrik/css/robotothin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'), url('../kovrik/css/robotothinitalic.woff2') format('woff2'), url('../kovrik/css/robotothinitalic.woff') format('woff'), url('../kovrik/css/robotothinitalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light'), local('Roboto-Light'), url('../kovrik/css/robotolight.woff2') format('woff2'), url('../kovrik/css/robotolight.woff') format('woff'), url('../kovrik/css/robotolight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'), url('../kovrik/css/robotolightitalic.woff2') format('woff2'), url('../kovrik/css/robotolightitalic.woff') format('woff'), url('../kovrik/css/robotolightitalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto'), local('Roboto-Regular'), url('../kovrik/css/roboto.woff2') format('woff2'), url('../kovrik/css/roboto.woff') format('woff'), url('../kovrik/css/roboto.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Italic'), local('Roboto-Italic'), url('../kovrik/css/robotoitalic.woff2') format('woff2'), url('../kovrik/css/robotoitalic.woff') format('woff'), url('../kovrik/css/robotoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('../kovrik/css/robotomedium.woff2') format('woff2'), url('../kovrik/css/robotomedium.woff') format('woff'), url('../kovrik/css/robotomedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'), url('../kovrik/css/robotomediumitalic.woff2') format('woff2'), url('../kovrik/css/robotomediumitalic.woff') format('woff'), url('../kovrik/css/robotomediumitalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold'), local('Roboto-Bold'), url('../kovrik/css/robotobold.woff2') format('woff2'), url('../kovrik/css/robotobold.woff') format('woff'), url('../kovrik/css/robotobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'), url('../kovrik/css/robotobolditalic.woff2') format('woff2'), url('../kovrik/css/robotobolditalic.woff') format('woff'), url('../kovrik/css/robotobolditalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black'), local('Roboto-Black'), url('../kovrik/css/robotoblack.woff2') format('woff2'), url('../kovrik/css/robotoblack.woff') format('woff'), url('../kovrik/css/robotoblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'), url('../kovrik/css/robotoblackitalic.woff2') format('woff2'), url('../kovrik/css/robotoblackitalic.woff') format('woff'), url('../kovrik/css/robotoblackitalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
